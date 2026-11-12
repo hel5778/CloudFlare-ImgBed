@@ -193,3 +193,4 @@ Read the [contribution guide](CONTRIBUTING.md) for repository selection, PR targ
 - **Upstream project**: [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image)
 
 CloudFlare ImgBed evolved from Telegraph-Image. Thanks to its original authors and contributors.
+
